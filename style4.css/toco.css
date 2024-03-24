@@ -1,21 +1,28 @@
 .top-div {
-  border: 2px solid ;
+  border: 2px solid;
   border-radius: 24px;
   padding-left: 30px;
   padding-right: 40px;
   width: 736px;
   top: 123px;
   margin-left: 352px;
-   background-color: white;
+  background-color: white;
 }
 .img {
-
   width: 656px;
   height: 300px;
   margin-top: 40px;
   border-radius: 12px;
   margin-left: 30px;
 }
+
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  padding: 50px;
+  max-width: 1200px;
+}
+
 .second-div {
   width: 656px;
   border: 1px;
@@ -34,7 +41,7 @@
   width: 656px;
   border: 1px;
   padding: 28px;
-  background-color: #FFF7FB;
+  background-color: #fff7fb;
   border-radius: 12px;
 }
 .pre-time {
@@ -76,5 +83,5 @@
   margin-bottom: 20px;
 }
 .body {
-  background-color: #F3E5D7;
+  background-color: #f3e5d7;
 }
